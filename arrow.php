@@ -1,6 +1,6 @@
 <?php
 
-// Версия файла
+// Version
 $strVersion = '3.1';
 
 // URI этого файла
